@@ -18,15 +18,11 @@ This workshop have been delivered many times and continues to evolve. To see a c
 </tr>
 </table>
 
-### Tutorial Table of Contents
+### Table of Contents
 <ol start="0">
   <li><strong>Module 0 - Introduction and Cloud Computing</strong></li>
   <ol start="i">
-   <li><a href="https://github.com/naveenluke/tut/wiki/Authors">Authors</a></li>
    <li><a href="https://github.com/naveenluke/tut/wiki/Citation">Citation and Supplementary Materials</a></li>
-   <li><a href="https://github.com/naveenluke/tut/wiki/Syntax">Syntax</a></li>
-   <li><a href="https://github.com/naveenluke/tut/wiki/Intro-to-AWS-Cloud-Computing">Intro to AWS Cloud Computing</a></li>
-   <li><a href="https://github.com/naveenluke/tut/wiki/Logging-into-Amazon-Cloud">Logging into Amazon Cloud</a></li>
    <li><a href="https://github.com/naveenluke/tut/wiki/Unix-Bootcamp">Unix Bootcamp</a></li>
    <li><a href="https://github.com/naveenluke/tut/wiki/Environment">Environment</a></li>
    <li><a href="https://github.com/naveenluke/tut/wiki/Resources">Resources</a></li>
@@ -53,24 +49,7 @@ This workshop have been delivered many times and continues to evolve. To see a c
    <li><a href="https://github.com/naveenluke/tut/wiki/Expression">Expression</a></li>
    <li><a href="https://github.com/naveenluke/tut/wiki/Differential-Expression">Differential Expression</a></li>
    <li><a href="https://github.com/naveenluke/tut/wiki/DE-Visualization">DE Visualization</a></li>
-   <li><a href="https://github.com/naveenluke/tut/wiki/Kallisto">Kallisto for Reference-Free Abundance Estimation</a></li>
   </ol>
-  <li><strong>Module 4 - Isoform Discovery and Alternative Expression</strong></li>
-  <ol start="i">
-   <li><a href="https://github.com/naveenluke/tut/wiki/Reference-Guided-Transcript-Assembly">Reference Guided Transcript Assembly</a></li>
-   <li><a href="https://github.com/naveenluke/tut/wiki/de-novo-Transcript-Assembly">de novo Transcript Assembly</a></li>
-   <li><a href="https://github.com/naveenluke/tut/wiki/Transcript-Assembly-Merge">Transcript Assembly Merge</a></li>
-   <li><a href="https://github.com/naveenluke/tut/wiki/Differential-Splicing">Differential Splicing</a></li>
-   <li><a href="https://github.com/naveenluke/tut/wiki/Transcript-Assembly-Visualization">Splicing Visualization</a></li>
-  </ol>
-  <li><strong>Module 5 - De novo transcript reconstruction</strong></li>
-    <ol start="i">
-    <li><a href="https://github.com/naveenluke/tut/wiki/Trinity-Assembly-And-Analysis">De novo RNA-Seq Assembly and Analysis Using Trinity</a></li>
-    </ol>
-  <li><strong>Module 6 - Functional Annotation of Transcripts</strong></li>
-    <ol start="i">
-    <li><a href="https://github.com/naveenluke/tut/wiki/Trinotate-Functional-Annotation">Functional Annotation of Assembled Transcripts Using Trinotate</a></li>
-    </ol>
   <li><strong>Appendix</strong></li>
   <ol start="i">
    <li><a href="https://github.com/naveenluke/tut/wiki/Saving-Your-Results">Saving Your Results</a></li>
@@ -78,7 +57,5 @@ This workshop have been delivered many times and continues to evolve. To see a c
    <li><a href="https://github.com/naveenluke/tut/wiki/Lectures">Lectures</a></li>
    <li><a href="https://github.com/naveenluke/tut/wiki/Solutions">Practical Exercise Solutions</a></li>
    <li><a href="https://github.com/naveenluke/tut/wiki/Integrated-Assignment">Integrated Assignment</a></li>
-   <li><a href="https://github.com/naveenluke/tut/wiki/Proposed-Improvements">Proposed Improvements</a></li>
-   <li><a href="https://github.com/naveenluke/tut/wiki/AWS-Setup">AWS Setup</a></li>
   </ol>
 </ol>
