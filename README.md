@@ -54,7 +54,6 @@ This workshop have been delivered many times and continues to evolve. To see a c
   <ol start="i">
    <li><a href="https://github.com/naveenluke/tut/wiki/Saving-Your-Results">Saving Your Results</a></li>
    <li><a href="https://github.com/naveenluke/tut/wiki/Abbreviations">Abbreviations</a></li>
-   <li><a href="https://github.com/naveenluke/tut/wiki/Lectures">Lectures</a></li>
    <li><a href="https://github.com/naveenluke/tut/wiki/Solutions">Practical Exercise Solutions</a></li>
    <li><a href="https://github.com/naveenluke/tut/wiki/Integrated-Assignment">Integrated Assignment</a></li>
   </ol>
