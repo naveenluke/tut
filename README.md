@@ -18,70 +18,67 @@ This workshop have been delivered many times and continues to evolve. To see a c
 </tr>
 </table>
 
-## Table of Contents
+### Tutorial Table of Contents
 <ol start="0">
   <li><strong>Module 0 - Introduction and Cloud Computing</strong></li>
   <ol start="i">
-    <li>[[Authors|Authors]]</li>
-    <li>[[Citation and Supplementary Materials|Citation]]</li>
-    <li>[[Syntax|Syntax]]</li>
-    <li>[[Intro to AWS Cloud Computing|Intro-to-AWS-Cloud-Computing]]</li>
-    <li>[[Logging into Amazon Cloud|Logging-into-Amazon-Cloud]]</li>
-    <li>[[Unix Bootcamp|Unix-Bootcamp]]</li>
-    <li>[[Environment|Environment]]</li>
-    <li>[[Resources|Resources]]</li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Authors">Authors</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Citation">Citation and Supplementary Materials</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Syntax">Syntax</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Intro-to-AWS-Cloud-Computing">Intro to AWS Cloud Computing</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Logging-into-Amazon-Cloud">Logging into Amazon Cloud</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Unix-Bootcamp">Unix Bootcamp</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Environment">Environment</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Resources">Resources</a></li>
   </ol>
   <li><strong>Module 1 - Introduction to RNA sequencing</strong></li>
   <ol start="i">
-    <li>[[Installation|Installation]]</li>
-    <li>[[Reference Genomes|Reference-Genome]]</li>
-    <li>[[Annotations|Annotation]]</li>
-    <li>[[Indexing|Indexing]]</li>
-    <li>[[RNA-seq Data|RNAseq-Data]]</li>
-    <li>[[PreAlignment QC|PreAlignment-QC]]</li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Installation">Installation</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Reference-Genome">Reference Genomes</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Annotation">Annotations</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Indexing">Indexing</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/RNAseq-Data">RNA-seq Data</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/PreAlignment-QC">Pre-Alignment QC</a></li>
   </ol>
   <li><strong>Module 2 - RNA-seq Alignment and Visualization</strong></li>
   <ol start="i">
-    <li>[[Adapter Trim|Adapter-Trim]]</li>
-    <li>[[Alignment|Alignment]]</li>
-    <li>[[IGV|IGV-Tutorial]]</li>
-    <li>[[Alignment Visualization|PostAlignment-Visualization]]</li>
-    <li>[[Alignment QC|PostAlignment-QC]]</li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Adapter-Trim">Adapter Trim</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Alignment">Alignment</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/IGV-Tutorial">IGV</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/PostAlignment-Visualization">Alignment Visualization</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/PostAlignment-QC">Alignment QC</a></li>
   </ol>
   <li><strong>Module 3 - Expression and Differential Expression</strong></li>
-  <ol start="i">  
-    <li>[[Expression|Expression]]</li>
-    <li>[[Differential Expression|Differential-Expression]]</li>
-    <li>[[DE Visualization|DE-Visualization]]</li>
+  <ol start="i">
+   <li><a href="https://github.com/naveenluke/tut/wiki/Expression">Expression</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Differential-Expression">Differential Expression</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/DE-Visualization">DE Visualization</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Kallisto">Kallisto for Reference-Free Abundance Estimation</a></li>
   </ol>
-  <li><strong>Module 4 - Alignment Free Expression Estimation</strong></li>
-  <ol start="i">  
-    <li>[[Kallisto for Reference-Free Abundance Estimation|Kallisto]]</li>
+  <li><strong>Module 4 - Isoform Discovery and Alternative Expression</strong></li>
+  <ol start="i">
+   <li><a href="https://github.com/naveenluke/tut/wiki/Reference-Guided-Transcript-Assembly">Reference Guided Transcript Assembly</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/de-novo-Transcript-Assembly">de novo Transcript Assembly</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Transcript-Assembly-Merge">Transcript Assembly Merge</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Differential-Splicing">Differential Splicing</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Transcript-Assembly-Visualization">Splicing Visualization</a></li>
   </ol>
-  <li><strong>Module 5 - Isoform Discovery and Alternative Expression</strong></li>
-  <ol start="i">  
-    <li>[[Reference Guided Transcript Assembly|Reference-Guided-Transcript-Assembly]]</li>
-    <li>[[de novo Transcript Assembly|de-novo-Transcript-Assembly]]</li>
-    <li>[[Transcript Assembly Merge|Transcript-Assembly-Merge]]</li>
-    <li>[[Differential Splicing|Differential-Splicing]]</li>
-    <li>[[Splicing Visualization|Transcript-Assembly-Visualization]]</li>
-  </ol>
-  <li><strong>Module 6 - De novo transcript reconstruction</strong></li>
-  <ol start="i">  
-    <li>[[De novo RNA-Seq Assembly and Analysis Using Trinity|Trinity-Assembly-And-Analysis]]</li>
-  </ol>
-  <li><strong>Module 7 - Functional Annotation of Transcripts</strong></li>
-  <ol start="i">  
-    <li>[[Functional Annotation of Assembled Transcripts Using Trinotate|Trinotate-Functional-Annotation]]</li>
-  </ol>
+  <li><strong>Module 5 - De novo transcript reconstruction</strong></li>
+    <ol start="i">
+    <li><a href="https://github.com/naveenluke/tut/wiki/Trinity-Assembly-And-Analysis">De novo RNA-Seq Assembly and Analysis Using Trinity</a></li>
+    </ol>
+  <li><strong>Module 6 - Functional Annotation of Transcripts</strong></li>
+    <ol start="i">
+    <li><a href="https://github.com/naveenluke/tut/wiki/Trinotate-Functional-Annotation">Functional Annotation of Assembled Transcripts Using Trinotate</a></li>
+    </ol>
   <li><strong>Appendix</strong></li>
-  <ol start="i">  
-    <li>[[Saving Results|Saving-Your-Results]]</li>
-    <li>[[Abbreviations|Abbreviations]]</li>
-    <li>[[Lectures|Lectures]]</li>
-    <li>[[Practical Exercise Solutions|Solutions]]</li>
-    <li>[[Integrated Assignment|Integrated-Assignment]]</li>
-    <li>[[Proposed Improvements|Proposed-Improvements]]</li>
-    <li>[[AWS Setup|AWS-Setup]]</li>
+  <ol start="i">
+   <li><a href="https://github.com/naveenluke/tut/wiki/Saving-Your-Results">Saving Your Results</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Abbreviations">Abbreviations</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Lectures">Lectures</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Solutions">Practical Exercise Solutions</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Integrated-Assignment">Integrated Assignment</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/Proposed-Improvements">Proposed Improvements</a></li>
+   <li><a href="https://github.com/naveenluke/tut/wiki/AWS-Setup">AWS Setup</a></li>
   </ol>
 </ol>
