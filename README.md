@@ -8,7 +8,6 @@ This tutorial page is partially forked and modified from <a href="https://github
 Citation:
 Malachi Griffith\*, Jason R. Walker, Nicholas C. Spies, Benjamin J. Ainscough, Obi L. Griffith\*. 2015. <a href="http://dx.doi.org/10.1371/journal.pcbi.1004393">Informatics for RNA-seq: A web resource for analysis on the cloud</a>. PLoS Comp Biol. 11(8):e1004393.
 
-\*To whom correspondence should be addressed: E-mail: mgriffit[AT]genome.wustl.edu, ogriffit[AT]genome.wustl.edu
 
 
 ### Table of Contents
