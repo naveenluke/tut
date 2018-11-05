@@ -316,8 +316,6 @@ Now run the file from the `Tools` menu:
 * This script will navigate automatically to each location in the lab
 * A screenshot will be taken and saved to the screenshots directory specified
 
-## Contributors/acknowledgements
-Malachi Griffith, Sorana Morrissy, Jim Robinson, Ben Ainscough, Jason Walker, Obi Griffith
 
 ---
 
