@@ -1,8 +1,14 @@
-# Informatics for RNA-seq: A web resource for analysis on the cloud  
+# RNA-Seq Workshop NEHU, Tutorial
 
-Welcome to the RNA-seq Tutorial.  Use this page to navigate your way through all exercises. Each page has a link at the bottom to bring you back to this table of contents. A version of this tutorial was accompanied by a publication.  If you find the materials here or in that paper useful, please cite the following:
+An educational tutorial and working demonstration pipeline for RNA-seq analysis including an introduction to: Next generation sequence file formats, reference genomes, gene annotation, expression analysis, differential expression analysis, alternative splicing analysis, data visualization, and interpretation.
 
-Malachi Griffith\*, Jason R. Walker, Nicholas C. Spies, Benjamin J. Ainscough, Obi L. Griffith\*. 2015. [*Informatics for RNA-seq: A web resource for analysis on the cloud*.](http://dx.doi.org/10.1371/journal.pcbi.1004393) PLoS Comp Biol. 11(8):e1004393. \*To whom correspondence should be addressed: E-mail: mgriffit[AT]genome.wustl.edu, ogriffit[AT]genome.wustl.edu
+Acknowledgements:
+This tutorial page is partially forked and modified from <a href="https://github.com/griffithlab/rnaseq_tutorial/wiki">RNA-seq tutorial wiki</a> to stick with the workshop schedule.
+
+Citation:
+Malachi Griffith\*, Jason R. Walker, Nicholas C. Spies, Benjamin J. Ainscough, Obi L. Griffith\*. 2015. <a href="http://dx.doi.org/10.1371/journal.pcbi.1004393">Informatics for RNA-seq: A web resource for analysis on the cloud</a>. PLoS Comp Biol. 11(8):e1004393.
+
+\*To whom correspondence should be addressed: E-mail: mgriffit[AT]genome.wustl.edu, ogriffit[AT]genome.wustl.edu
 
 
 ### Table of Contents
