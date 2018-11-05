@@ -15,7 +15,6 @@ Malachi Griffith\*, Jason R. Walker, Nicholas C. Spies, Benjamin J. Ainscough, O
 <ol start="0">
   <li><strong>Module 0 - Introduction and Cloud Computing</strong></li>
   <ol start="i">
-   <li><a href="https://github.com/naveenluke/tut/wiki/Citation">Citation and Supplementary Materials</a></li>
    <li><a href="https://github.com/naveenluke/tut/wiki/Unix-Bootcamp">Unix Bootcamp</a></li>
    <li><a href="https://github.com/naveenluke/tut/wiki/Environment">Environment</a></li>
    <li><a href="https://github.com/naveenluke/tut/wiki/Resources">Resources</a></li>
